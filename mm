@@ -1,10 +1,11 @@
 # Logs
 logs
 *.log
-npm-debug.log*
+npm-debug.log" ggg
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
+npm-debug.log*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
