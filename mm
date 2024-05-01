@@ -62,12 +62,13 @@ typings/
 # Optional eslint cache
 .eslintcache
 
-# Microbundle cache
+# Microbundle cache!
 .rpt2_cache/
 .rts2_cache_cjs/
 .rts2_cache_es/
 .rts2_cache_umd/
-
+.rts2_cache_umd/
+khi
 # Optional REPL history
 .node_repl_history
 
