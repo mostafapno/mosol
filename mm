@@ -106,7 +106,8 @@ dist
 
 # FuseBox cache
 .fusebox/
-
+# FuseBox cache
+hi
 # DynamoDB Local files
 .dynamodb/
 
