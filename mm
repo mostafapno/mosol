@@ -103,6 +103,8 @@ dist
 
 # Serverless directories
 .serverless/
+# Serverless directories
+hji
 
 # FuseBox cache
 .fusebox/
