@@ -117,6 +117,8 @@ hi
 # TernJS port file
 .tern-port
 # TernJS port file
+# TernJS port file
+hi
 
 hi
 # macOS
