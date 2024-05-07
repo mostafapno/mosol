@@ -118,6 +118,7 @@ hi
 .tern-port
 # TernJS port file
 # TernJS port file
+hi# TernJS port file
 hi
 
 hi
