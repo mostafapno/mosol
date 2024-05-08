@@ -113,7 +113,8 @@ hji
 hi
 # DynamoDB Local files
 .dynamodb/
-
+# TernJS port file
+hji
 # TernJS port file
 .tern-port
 # TernJS port file
