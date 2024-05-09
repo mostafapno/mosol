@@ -88,7 +88,8 @@ ho
 
 # Next.js build output
 .next
-
+.next
+hi
 # Nuxt.js build / generate output
 .nuxt
 dist
