@@ -26,6 +26,10 @@ hi
 lib-cov
 
 # Coverage directory used by tools like istanbul
+
+# Coverage directory used by tools like istanbul
+
+hi 
 coverage
 *.lcov
 
