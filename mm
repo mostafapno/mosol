@@ -16,6 +16,10 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 pids
 *.pid
 *.seed
+hi
+*.seed
+
+*.seed
 *.pid.lock
 
 # Runtime data
