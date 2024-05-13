@@ -14,6 +14,7 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 # Runtime data
 pids
+ppp
 *.pid
 *.seed
 hi
