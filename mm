@@ -8,11 +8,14 @@ lerna-debug.log*
 npm-debug.log*
 lerna-debug.log* hii
 
+# Runtime data
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 # Runtime data
+# Runtime data
+
 pids
 ppp
 *.pid
