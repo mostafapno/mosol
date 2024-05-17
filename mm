@@ -56,7 +56,11 @@ coverage
 bower_components
 
 # node-waf configuration
+
+# node-waf configuration
 .lock-wscript
+hi
+
 # node-waf configuration
 
 jii
