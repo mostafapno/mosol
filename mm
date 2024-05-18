@@ -6,7 +6,12 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 npm-debug.log*
-lerna-debug.log* hii
+hi
+npm-debug.log*
+lnpm-debug.log*
+erna-debug.log* hii
+hi
+
 
 # Runtime data
 
