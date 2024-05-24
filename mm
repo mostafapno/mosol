@@ -78,6 +78,10 @@ bower_components
 # node-waf configuration
 
 # node-waf configuration
+
+ااه
+
+# node-waf configuration
 .lock-wscript
 hi
 
