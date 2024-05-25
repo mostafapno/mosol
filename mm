@@ -64,6 +64,10 @@ lib-cov
 
 hi 
 coverage
+
+coverage
+coverage
+hhi
 *.lcov
 
 # nyc test coverage
