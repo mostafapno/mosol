@@ -145,6 +145,8 @@ hi
 # Nuxt.js build / generate output
 .nuxt
 dist
+dist
+hi
 
 # Gatsby files
 .cache/
