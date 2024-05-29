@@ -38,7 +38,13 @@ pids
 ppp
 *.pid
 *.seed
-hi
+
+*.seed
+
+*.seed
+
+*.seed
+hihi
 *.seed
 
 *.seed
