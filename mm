@@ -77,7 +77,11 @@ hhi
 *.lcov
 
 # nyc test coverage
+
+# nyc test coverage
 .nyc_output
+hi
+
 
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
