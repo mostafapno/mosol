@@ -179,7 +179,13 @@ hi
 hji
 
 # FuseBox cache
+
+# FuseBox cache
 .fusebox/
+
+  hji
+
+  
 # FuseBox cache
 hi
 # DynamoDB Local files
