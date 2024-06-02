@@ -138,6 +138,13 @@ typings/
 .rts2_cache_cjs/
 .rts2_cache_es/
 .rts2_cache_umd/
+  lnpm-debug.log*
+
+lnpm-debug.log*
+
+lnpm-debug.log*
+hi
+
 .rts2_cache_umd/
 khi
 # Optional REPL history
