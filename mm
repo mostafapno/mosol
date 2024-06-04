@@ -128,6 +128,11 @@ typings/
 *.tsbuildinfo
 
 # Optional npm cache directory
+
+# Optional npm cache directory
+
+hi# Optional npm cache directory
+
 .npm
 
 # Optional eslint cache
