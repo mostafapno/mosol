@@ -12,6 +12,12 @@ lnpm-debug.log*
 erna-debug.log* hii
 lnpm-debug.log*
 
+
+lnpm-debug.log*
+
+lnpm-debug.log*
+
+hi
 lnpm-debug.log*
 
 lnpm-debug.log*
