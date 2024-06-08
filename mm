@@ -50,7 +50,12 @@ ppp
 *.seed
 
 *.seed
-hihi
+
+*.seed
+
+*.seed
+
+hihihi
 *.seed
 
 *.seed
