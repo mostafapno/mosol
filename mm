@@ -218,6 +218,11 @@ hji
 # FuseBox cache
 
 # FuseBox cache
+# FuseBox cache
+
+ih
+
+# FuseBox cache
 .fusebox/
 
   hji
