@@ -17,6 +17,9 @@ lnpm-debug.log*
 
 lnpm-debug.log*
 
+lnpm-debug.log*
+lnpm-debug.log*
+hi
 hi
 lnpm-debug.log*
 
