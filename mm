@@ -267,6 +267,11 @@ hi
 # macOS
 .DS_Store
 .DS_Store
+
+
+.DS_Store
+.DS_Store
+hi
 hi
 # python
 pycache/
