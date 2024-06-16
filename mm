@@ -273,7 +273,12 @@ hi
 .DS_Store
 hi
 hi
+
+hi
 # python
+hi
+
+ih
 pycache/
 
 # Ignore .husky for new contributors using lefthook while maintaining
