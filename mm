@@ -198,6 +198,11 @@ hi# Optional npm cache directory
 .rts2_cache_umd/
   lnpm-debug.log*
 
+  lnpm-debug.log*
+
+  lnpm-debug.log*
+
+hi
 lnpm-debug.log*
 
 lnpm-debug.log*
