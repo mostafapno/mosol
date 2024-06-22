@@ -205,6 +205,10 @@ hi# Optional npm cache directory
   lnpm-debug.log*
 
   lnpm-debug.log*
+  lnpm-debug.log*
+
+hi
+  lnpm-debug.log*
 
 hi
 lnpm-debug.log*
