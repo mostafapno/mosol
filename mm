@@ -229,7 +229,13 @@ hi
 .rts2_cache_umd/
 khi
 # Optional REPL history
+
+# Optional REPL history
+
+# Optional REPL history
 .node_repl_history
+hi
+
 
 # Output of 'npm pack'
 *.tgz
