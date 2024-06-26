@@ -121,6 +121,10 @@ hi
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
 
+.grunt
+
+.grunt
+hi
 # Bower dependency directory (https://bower.io/)
 bower_components
 
