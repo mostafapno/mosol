@@ -24,7 +24,13 @@ lnpm-debug.log*
 lnpm-debug.log*
 
 lnpm-debug.log*
+
 lnpm-debug.log*
+
+lnpm-debug.log*
+lnpm-debug.log*
+lnpm-debug.log*
+hio
 hi
 hi
 lnpm-debug.log*
