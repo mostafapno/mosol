@@ -120,7 +120,13 @@ coverage
 coverage
 coverage
 hhi
+
+hhi
+
+hhi
 *.lcov
+hhi
+hi
 
 # nyc test coverage
 
