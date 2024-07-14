@@ -19,6 +19,11 @@ npm-debug.log*
 hi
 npm-debug.log*
 lnpm-debug.log*
+npm-debug.log*
+
+npm-debug.log*
+
+hi
 erna-debug.log* hii
 lnpm-debug.log*
 
