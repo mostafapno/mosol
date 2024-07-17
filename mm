@@ -416,7 +416,10 @@ ih
 pycache/
 
 # Ignore .husky for new contributors using lefthook while maintaining
-# backwards compatibility for past contributors
+
+  # Ignore .husky for new contributors using lefthook while maintaining
+
+  # Ignore .husky for new contributors using lefthook while maintaining # backwards compatibility for past contributors
 .husky
 
 
