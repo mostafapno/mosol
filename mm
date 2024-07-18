@@ -134,6 +134,11 @@ hi
 *.pid.lock  hi
 *.pid.lock  hi
 
+*.pid.lock  hi
+
+*.pid.lock  hi
+
+hi
 hi
 
 hi
