@@ -436,6 +436,12 @@ hi
 .DS_Store
 
 .DS_Store
+اه
+.DS_Store
+
+.DS_Store
+
+.DS_Store
 .DS_Store
 hi
 hi
