@@ -471,6 +471,9 @@ hi
 hi
 # python
 hi
+ه
+اه
+اه
 
 ih
 pycache/
