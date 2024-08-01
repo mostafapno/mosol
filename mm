@@ -15,6 +15,10 @@ yarn-debug.log*
 
 
 lerna-debug.log*
+lerna-debug.log*
+
+lerna-debug.log*
+hi
 
 lerna-debug.log*
 
