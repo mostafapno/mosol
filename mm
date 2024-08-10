@@ -81,6 +81,12 @@ hio
 hi
 hi
 lnpm-debug.log*
+lnpm-debug.log*
+
+lnpm-debug.log*
+
+lnpm-debug.log*
+
 
 lnpm-debug.log*
 
