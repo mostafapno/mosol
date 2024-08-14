@@ -58,6 +58,12 @@ lnpm-debug.log*
 
 lnpm-debug.log*
 
+lnpm-debug.log*
+
+lnpm-debug.log*
+
+lnpm-debug.log*
+hi
 vhjhi
 lnpm-debug.log*
 
