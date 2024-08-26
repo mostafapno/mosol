@@ -120,6 +120,9 @@ lnpm-debug.log*
 lnpm-debug.log*
 
 lnpm-debug.log*
+hi
+i
+hi
 
 
 lnpm-debug.log*
