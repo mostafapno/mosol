@@ -12,7 +12,7 @@ yarn-debug.log*
 
 hi
 hi
-hi
+him
 i
 hihi
 yarn-debug.log*
@@ -53,6 +53,9 @@ npm-debug.log*
 
 hi
 erna-debug.log* hii
+lnpm-debug.log*
+lnpm-debug.log*
+lnpm-debug.log*
 lnpm-debug.log*
 
 
