@@ -38,6 +38,10 @@ npm-debug.log*
 lerna-debug.log*
 hiczx
 hi
+hi
+hi
+hi
+
 
 hi
 
