@@ -29,7 +29,10 @@ yarn-debug.log*
 yarn-debug.log*
 
 
-gu
+guho
+hi
+hi
+
 gi
 gi
 lerna-debug.log*
