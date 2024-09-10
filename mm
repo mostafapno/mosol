@@ -47,7 +47,12 @@ hi
 hi
 
 gi
-gi
+gihhi
+
+i
+hi
+hi
+
 lerna-debug.log*
 lerna-debug.log*
 
