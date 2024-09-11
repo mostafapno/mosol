@@ -92,6 +92,9 @@ lnpm-debug.log*
 lnpm-debug.log*
 lnpm-debug.log*
 
+gi
+hi
+kmlkm
 
 lnpm-debug.log*
 
