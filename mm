@@ -7,7 +7,9 @@ yarn-debug.log*
 yarn-debug.log*
 
 yarn-debug.log*
-yarn-error.log*
+yarn-error.log*m
+hi
+hi
 yarn-debug.log*
 hi
 hi
