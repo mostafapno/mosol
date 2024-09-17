@@ -5,6 +5,8 @@ npm-debug.log" ggg
 yarn-debug.log*
 
 yarn-debug.log*
+ji
+hi
 
 yarn-debug.log*
 yarn-error.log*m
