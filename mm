@@ -26,6 +26,8 @@ hi
 hi
 hi
 
+gi
+hio
 
 yarn-debug.log*
 yarn-error.log*m
