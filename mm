@@ -8,6 +8,8 @@ hi
 hi
 yarn-debug.log*
 hi
+i
+hi
 gi
 Hi
 hi
