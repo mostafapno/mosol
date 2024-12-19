@@ -16,6 +16,8 @@ gu
 hoi
 hi
 Hi
+hi
+jo
 Hi
 Hi
 ih
