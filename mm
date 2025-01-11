@@ -19,6 +19,8 @@ hi
 hu
 hi
 ho
+jho
+h
 hi
 ih
 hoi
