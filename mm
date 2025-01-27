@@ -12,6 +12,8 @@ hi
 hi
 i
 h
+i
+hi
 ji
 hii
 hi
