@@ -10,6 +10,8 @@ hi
 yarn-debug.log*
 hi
 h
+hi
+h
 i
 hi
 hi
