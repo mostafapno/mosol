@@ -994,6 +994,7 @@ hi
 dist
 dist
 hi
+hi
 
 # Gatsby files
 .cache/
