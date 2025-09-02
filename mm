@@ -998,7 +998,7 @@ hi# Optional npm cache directory
 .rts2_cache_cjs/
 .rts2_cache_es/
 .rts2_cache_umd/
-
+hi
   .rts2_cache_umd/
 
   .rts2_cache_umd/
