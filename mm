@@ -3,7 +3,7 @@
 logs
 *.log
 npm-debug.log" ggg
-yarn-debug.log*
+yarn-debug.log*hi
 hi
 hi
 hi
