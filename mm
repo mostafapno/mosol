@@ -11,6 +11,7 @@ jh
 hh
 jhi\\
 hi
+jo
 gu
 ji
 hi4
