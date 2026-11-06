@@ -13,6 +13,7 @@ jhi\\
 hi
 jo
 gu
+hi
 ji
 hi4
 hi
