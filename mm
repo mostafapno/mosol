@@ -14,6 +14,7 @@ hi
 jo
 gu
 hi
+hi
 ji
 hi4
 hi
